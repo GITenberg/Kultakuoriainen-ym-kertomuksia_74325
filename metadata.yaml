@@ -1,0 +1,54 @@
+_repo: Kultakuoriainen-ym-kertomuksia_74325
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Jylhä, Yrjö
+    aliases:
+    - Jylha, Yrjo
+    - Jylhä, Yrjö Olavi
+    birthdate: 1903
+    deathdate: 1956
+    gutenberg_agent_id: '56990'
+    url: http://www.gutenberg.org/2009/agents/56990
+    wikipedia: https://fi.wikipedia.org/wiki/Yrj%C3%B6_Jylh%C3%A4
+  - agent_name: Kivimies, Yrjö
+    alias: Kivimies, Yrjo
+    birthdate: 1899
+    deathdate: 1980
+    gutenberg_agent_id: '57447'
+    url: http://www.gutenberg.org/2009/agents/57447
+    wikipedia: https://fi.wikipedia.org/wiki/Yrj%C3%B6_Kivimies
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: ''
+gutenberg_issued: '2024-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74325'
+language: fi
+pgterms:marc905: 20240705000957poe
+pgterms:marc906: '1927'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories, American -- Translations into Finnish'
+- !lcsh 'American fiction -- Translations into Finnish'
+- !lcsh 'Horror tales, American -- Translations into Finnish'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Edgar Allan Poe -- Kultakuoriainen -- Tarina Rosovuorilta -- Sfinksi
+  -- William Wilson -- Musta kissa -- Ligeia -- Kuilu ja heiluri -- Tohtori Tarrin
+  ja professori Fetherin systeemi -- Usherin talon häviö.
+title: Kultakuoriainen y.m. kertomuksia
+url: http://www.gutenberg.org/ebooks/74325
