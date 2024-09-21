@@ -18,6 +18,9 @@ contributor:
     gutenberg_agent_id: '57447'
     url: http://www.gutenberg.org/2009/agents/57447
     wikipedia: https://fi.wikipedia.org/wiki/Yrj%C3%B6_Kivimies
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Poe, Edgar Allan
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/481
     wikipedia: https://en.wikipedia.org/wiki/Edgar_Allan_Poe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74325#Kultakuoriainen-ym-kertomuksia
 gutenberg_issued: '2024-08-28'
 gutenberg_type: Text
 identifiers:
